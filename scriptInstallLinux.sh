@@ -10,7 +10,8 @@ echo -e "\033[1;31m* Atualizando pacotes *\e[0m" && sleep 1;
     sudo apt-get upgrade && echo -e "\033[1;32m* Concluido *\e[0m" && sleep 1;
 
 echo -e "\033[1;31m* Removendo programas desnecessarios *\e[0m" && sleep 1;
-    sudo apt-get remove --purge libreoffice celluloid hexchat simple-scan pix rhythmbox && echo -e "\033[1;32m* Concluido *\e[0m" && sleep 1;
+    sudo apt-get remove celluloid hexchat simple-scan pix rhythmbox mint-meta-cinnamon mint-meta-core mintwelcome 
+    && echo -e "\033[1;32m* Concluido *\e[0m" && sleep 1;
 
 echo -e "\033[1;31m* Liberando espaço *\e[0m" && sleep 1;
     sudo apt-get clean;
