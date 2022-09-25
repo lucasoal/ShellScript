@@ -2,25 +2,26 @@
 
 Scripts to study computer networks and their management.
 
--   [ARP Mapping](Network/ArpMapping.sh)
+-   [ARP Mapping](network/arp-mapping.sh.sh)
+-   [MTU Identification](network/mtu-identification.sh.sh)
 
 ## **Study**
 
 Some code to study programming logic in bash
 
--   [Arguments](./Study/argumentos.sh)
--   [Case](./Study/case.sh)
--   [Echo](./Study/echo.sh)
--   [Data Input](./Study/entradaDeDados.sh)
--   [For](./Study/for.sh)
--   [Functions](./Study/funcao.sh)
--   [IfElse](./Study/ifElse.sh)
--   [Infos](./Study/infos.sh)
--   [Variables](./Study/variavel.sh)
--   [While](./Study/while.sh)
+-   [Arguments](./study/argumentos.sh)
+-   [Case](./study/case.sh)
+-   [Echo](./study/echo.sh)
+-   [Data Input](./study/entradaDeDados.sh)
+-   [For](./study/for.sh)
+-   [Functions](./study/funcao.sh)
+-   [IfElse](./study/ifElse.sh)
+-   [Infos](./study/infos.sh)
+-   [Variables](./study/variavel.sh)
+-   [While](./study/while.sh)
 
 ## **Tools**
 
 Algumas ferramentas para me ajudar
 
--   [Install and Remove some softwares](./Tools/install.sh)
+-   [Install and Remove some softwares](./tools/install.sh)
