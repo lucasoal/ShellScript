@@ -2,8 +2,8 @@
 
 Scripts to study computer networks and their management.
 
--   [ARP Mapping](network/arp-mapping.sh.sh)
--   [MTU Identification](network/mtu-identification.sh.sh)
+-   [ARP Mapping](network/arp-mapping.sh)
+-   [MTU Identification](network/mtu-identification.sh)
 
 ## **Study**
 
