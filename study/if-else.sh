@@ -32,7 +32,7 @@ else
     echo "Não é um valor permitido!!!"
 fi
 
-echo ""
+echo
 echo    "Selecione uma opção"
 echo    "1- Data e hora do sistema"
 echo    "2- Dividir 2 numeros"
