@@ -9,19 +9,21 @@ Scripts to study computer networks and their management.
 
 Some code to study programming logic in bash
 
--   [Arguments](./study/argumentos.sh)
+-   [Arguments](./study/arguments.sh)
 -   [Case](./study/case.sh)
 -   [Echo](./study/echo.sh)
--   [Data Input](./study/entradaDeDados.sh)
+-   [Data Input](./study/user-input.sh)
 -   [For](./study/for.sh)
--   [Functions](./study/funcao.sh)
--   [IfElse](./study/ifElse.sh)
+-   [Functions](./study/functions.sh)
+-   [IfElse](./study/if-else.sh)
 -   [Infos](./study/infos.sh)
--   [Variables](./study/variavel.sh)
+-   [Variables](./study/variables.sh)
 -   [While](./study/while.sh)
 
 ## **Tools**
 
 Algumas ferramentas para me ajudar
 
--   [Install and Remove some softwares](./tools/install.sh)
+-   [Install and Remove some softwares](./tools/install-and-remove.sh)
+-   [Binary Search](./tools/binary-search.sh)
+-   [Binary Search 2](./tools/binary-search2.sh)
